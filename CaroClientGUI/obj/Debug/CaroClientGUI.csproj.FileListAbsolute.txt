@@ -1,0 +1,15 @@
+C:\Users\dangk\Downloads\CaroOnline_VS2022\CaroOnline_VS2022\CaroClientGUI\bin\Debug\CaroClientGUI.exe.config
+C:\Users\dangk\Downloads\CaroOnline_VS2022\CaroOnline_VS2022\CaroClientGUI\bin\Debug\CaroClientGUI.exe
+C:\Users\dangk\Downloads\CaroOnline_VS2022\CaroOnline_VS2022\CaroClientGUI\bin\Debug\CaroClientGUI.pdb
+C:\Users\dangk\Downloads\CaroOnline_VS2022\CaroOnline_VS2022\CaroClientGUI\obj\Debug\CaroClientGUI.csproj.AssemblyReference.cache
+C:\Users\dangk\Downloads\CaroOnline_VS2022\CaroOnline_VS2022\CaroClientGUI\obj\Debug\CaroClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\dangk\Downloads\CaroOnline_VS2022\CaroOnline_VS2022\CaroClientGUI\obj\Debug\CaroClientGUI.exe
+C:\Users\dangk\Downloads\CaroOnline_VS2022\CaroOnline_VS2022\CaroClientGUI\obj\Debug\CaroClientGUI.pdb
+C:\Users\dangk\Downloads\CaroOnline_VS2022_fixed_win_lose\CaroOnline_VS2022\CaroClientGUI\bin\Debug\CaroClientGUI.exe.config
+C:\Users\dangk\Downloads\CaroOnline_VS2022_fixed_win_lose\CaroOnline_VS2022\CaroClientGUI\bin\Debug\CaroClientGUI.exe
+C:\Users\dangk\Downloads\CaroOnline_VS2022_fixed_win_lose\CaroOnline_VS2022\CaroClientGUI\bin\Debug\CaroClientGUI.pdb
+C:\Users\dangk\Downloads\CaroOnline_VS2022_fixed_win_lose\CaroOnline_VS2022\CaroClientGUI\obj\Debug\CaroClientGUI.csproj.AssemblyReference.cache
+C:\Users\dangk\Downloads\CaroOnline_VS2022_fixed_win_lose\CaroOnline_VS2022\CaroClientGUI\obj\Debug\CaroClientGUI.exe.config
+C:\Users\dangk\Downloads\CaroOnline_VS2022_fixed_win_lose\CaroOnline_VS2022\CaroClientGUI\obj\Debug\CaroClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\dangk\Downloads\CaroOnline_VS2022_fixed_win_lose\CaroOnline_VS2022\CaroClientGUI\obj\Debug\CaroClientGUI.exe
+C:\Users\dangk\Downloads\CaroOnline_VS2022_fixed_win_lose\CaroOnline_VS2022\CaroClientGUI\obj\Debug\CaroClientGUI.pdb
