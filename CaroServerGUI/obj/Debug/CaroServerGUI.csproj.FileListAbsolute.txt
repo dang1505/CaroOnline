@@ -1,0 +1,16 @@
+C:\Users\dangk\Downloads\CaroOnline_VS2022\CaroOnline_VS2022\CaroServerGUI\bin\Debug\CaroServerGUI.exe.config
+C:\Users\dangk\Downloads\CaroOnline_VS2022\CaroOnline_VS2022\CaroServerGUI\bin\Debug\CaroServerGUI.exe
+C:\Users\dangk\Downloads\CaroOnline_VS2022\CaroOnline_VS2022\CaroServerGUI\bin\Debug\CaroServerGUI.pdb
+C:\Users\dangk\Downloads\CaroOnline_VS2022\CaroOnline_VS2022\CaroServerGUI\obj\Debug\CaroServerGUI.csproj.AssemblyReference.cache
+C:\Users\dangk\Downloads\CaroOnline_VS2022\CaroOnline_VS2022\CaroServerGUI\obj\Debug\CaroServerGUI.csproj.CoreCompileInputs.cache
+C:\Users\dangk\Downloads\CaroOnline_VS2022\CaroOnline_VS2022\CaroServerGUI\obj\Debug\CaroServerGUI.exe
+C:\Users\dangk\Downloads\CaroOnline_VS2022\CaroOnline_VS2022\CaroServerGUI\obj\Debug\CaroServerGUI.pdb
+C:\Users\dangk\Downloads\CaroOnline_VS2022\CaroOnline_VS2022\CaroServerGUI\obj\Debug\CaroServerGUI.exe.config
+C:\Users\dangk\Downloads\CaroOnline_VS2022_fixed_win_lose\CaroOnline_VS2022\CaroServerGUI\bin\Debug\CaroServerGUI.exe.config
+C:\Users\dangk\Downloads\CaroOnline_VS2022_fixed_win_lose\CaroOnline_VS2022\CaroServerGUI\bin\Debug\CaroServerGUI.exe
+C:\Users\dangk\Downloads\CaroOnline_VS2022_fixed_win_lose\CaroOnline_VS2022\CaroServerGUI\bin\Debug\CaroServerGUI.pdb
+C:\Users\dangk\Downloads\CaroOnline_VS2022_fixed_win_lose\CaroOnline_VS2022\CaroServerGUI\obj\Debug\CaroServerGUI.csproj.AssemblyReference.cache
+C:\Users\dangk\Downloads\CaroOnline_VS2022_fixed_win_lose\CaroOnline_VS2022\CaroServerGUI\obj\Debug\CaroServerGUI.exe.config
+C:\Users\dangk\Downloads\CaroOnline_VS2022_fixed_win_lose\CaroOnline_VS2022\CaroServerGUI\obj\Debug\CaroServerGUI.csproj.CoreCompileInputs.cache
+C:\Users\dangk\Downloads\CaroOnline_VS2022_fixed_win_lose\CaroOnline_VS2022\CaroServerGUI\obj\Debug\CaroServerGUI.exe
+C:\Users\dangk\Downloads\CaroOnline_VS2022_fixed_win_lose\CaroOnline_VS2022\CaroServerGUI\obj\Debug\CaroServerGUI.pdb
